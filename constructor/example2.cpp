@@ -25,6 +25,6 @@ main(){
     Complex cs; // creating object for default constructor 
     Complex c(0,0); // first way
     // Complex c=Complex(0,0) // second way
-    // Complex t=34; // third way  but it works only when constructor have single param 
+    // Complex t=34; // third way  but it works only when constructor have single parameter 
 };
 

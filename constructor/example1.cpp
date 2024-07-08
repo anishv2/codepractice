@@ -15,5 +15,4 @@ class Complex {
 
 main(){
     Complex c;
-    getch();
 };
