@@ -27,7 +27,7 @@ class Complex {
 int main(){
     Complex c1, c2, c3;
     c1.input(5,6);
-    c2=-c1; // unary operator overloading
+    c2=-c1; // unary operator overloading, it doesn't need two operands (uses only in binary operator) 
     c2.display();
     return 0;
 }
